@@ -15,7 +15,7 @@ git clone https://github.com/AdleyTales/img2text.git
 
 ```
 
-![](./assets/2.png)
+![](assets/2.png)
 
 ---
 
