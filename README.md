@@ -15,18 +15,18 @@ git clone https://github.com/AdleyTales/img2text.git
 
 ```
 
-![](D:\github\img2text\assets\2.png)
+![](./assets/2.png)
 
 ---
 
-![](D:\github\img2text\assets\3.png)
+![](./assets/3.png)
 
 #### 示例
 
 - 原图片：
-![](D:\github\img2text\图片转文字程序\images\搜狗截图_2021-01-04_13-43-51.png)
+![](./图片转文字程序/images/搜狗截图_2021-01-04_13-43-51.png)
 - 转化后的图片：
-![](D:\github\img2text\assets\1.png)
+![](./assets/1.png)
 
 
 
