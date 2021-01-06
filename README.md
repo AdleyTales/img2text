@@ -25,7 +25,8 @@ git clone https://github.com/AdleyTales/img2text.git
 
 - 原图片：
 ![](图片转文字程序/images/搜狗截图_2021-01-04_13-43-51.png)
-- 转化后的图片：
+
+- 转化后的文字：
 ![](assets/1.png)
 
 
