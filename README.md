@@ -21,7 +21,7 @@ git clone https://github.com/AdleyTales/img2text.git
 
 ![](assets/3.png)
 
-#### 示例
+## 示例
 
 - 原图片：
 ![](图片转文字程序/images/搜狗截图_2021-01-04_13-43-51.png)
